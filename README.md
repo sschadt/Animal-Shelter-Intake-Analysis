@@ -1,35 +1,17 @@
-<!DOCTYPE html>
-<html lang="en-us">
+# Animal Shelter Intakes in Austin, TX - Location analysis
 
-<head>
-  <meta charset="UTF-8">
-  <title>Animal Shelter Analysis in Austin, TX</title>
-</head>
+## Heatmap Findings
+**Overview**
+In general, the most animal intakes center around the I-35 corridor, with one large patch south of 290 near downtown, and another north of downtown near 183. 
 
-<body>
+**Strays vs. Pets in Homes**
+Stray intakes tended to center around the same corridor in Austin, while intakes from pets in homes were more spread out inside and outside the city. 
 
-<h1>Animal Shelter Intakes in Austin, TX - Location analysis</h1>
+**Dogs vs. Cats**
+Dog intakes were more prevalent than cat intakes, and more concentrated in the downtown area, and around the I-35/71/183 corridors. Cat intakes tended to be a little more spread out than dog intakes.
 
-<h2>Heatmap Findings</h2>
-<h3>Overview</h3>
-<p>In general, the most animal intakes center around the I-35 corridor, with one large patch south of 290 near downtown, and another north of downtown near 183. 
-</p>
-
-<h3>Strays vs. Pets in Homes</h3>
-<p>Stray intakes tended to center around the same corridor in Austin, while intakes from pets in homes were more spread out inside and outside the city. 
-</p>
-
-<h3>Dogs vs. Cats</h3>
-<p>Dog intakes were more prevalent than cat intakes, and more concentrated in the downtown area, and around the I-35/71/183 corridors. Cat intakes tended to be a little more spread out than dog intakes.
-</p>
-
-<h2>Veterinarian Count Findings</h2>
+## Veterinarian Count Findings
 After plotting the count of intake addresses within 1,700 meter radius of veterinary clinics in Austin, we found the following: 
-<ul>
-    <li>The most intakes occurred in the areas with the fewest vet clinics. </li>
-    <li>In urban areas with a higher concentration of vet clinics, the number of intakes increased again to higher levels, a trend which could be explained simply by a higher concentration of animals in  more densely-populated areas. </li>
-    <li>In one suburban area with the highest concentration of vet clinics, there was a very low intake count. </li>
-</ul>
-
-</body>
-</html>
+* The most intakes occurred in the areas with the fewest vet clinics. 
+* In urban areas with a higher concentration of vet clinics, the number of intakes increased again to higher levels, a trend which could be explained simply by a higher concentration of animals in  more densely-populated areas. 
+* In one suburban area with the highest concentration of vet clinics, there was a very low intake count. 
