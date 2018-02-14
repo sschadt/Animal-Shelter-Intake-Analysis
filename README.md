@@ -1,4 +1,5 @@
 # Animal Shelter Intakes in Austin, TX - Location analysis
+View the [demo](https://sschadt.github.io/animal-shelter-dashboard/index.html)
 
 ## Heatmap Findings
 **Overview**
